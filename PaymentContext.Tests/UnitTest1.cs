@@ -1,12 +1,14 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace PaymentContext.Tests;
-
-[TestClass]
-public class UnitTest1
+namespace PaymentContext.Tests
 {
-    [TestMethod]
-    public void TestMethod1()
+    
+    [TestClass]
+    public class UnitTest1
     {
+        [TestMethod]
+        public void TestMethod1()
+        {
+        }
     }
 }
